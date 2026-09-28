@@ -1,0 +1,6 @@
+# Prévia de aprovação: fora dos buscadores até o lançamento.
+# No lançamento: trocar por "Allow: /" e liberar Googlebot, OAI-SearchBot e PerplexityBot.
+User-agent: *
+Disallow: /
+
+Sitemap: https://sangalli.rkperformance.com.br/sitemap.xml
